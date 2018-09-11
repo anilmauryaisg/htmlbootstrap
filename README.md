@@ -1,4 +1,4 @@
-#Bootstrap HTML Tutorial
+#Bootstrap Tutorial
 
 Basic of bootstrap
 
